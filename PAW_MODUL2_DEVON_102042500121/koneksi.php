@@ -11,7 +11,7 @@
 //   ___1c___ = password MySQL  -> bawaan XAMPP/Laragon: kosong, jadi tulis ''
 //   ___1d___ = nama database   -> lihat baris CREATE DATABASE di database.sql
 // =====================================================================
-$conn = mysqli_connect('127.0.0.1', 'root', 'MySQL#Pass77!', 'paw_modul2_showroom');
+$conn = mysqli_connect('127.0.0.1', 'root', '', 'paw_modul2_showroom');
 
 
 // =====================================================================
