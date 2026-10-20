@@ -5,7 +5,7 @@
 $host = '127.0.0.1';
 $port = 3306;
 $user = 'root';
-$pass = 'MySQL#Pass77!';
+$pass = '';
 $db   = 'paw_jurnal2_lms';
 
 try {
